@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielandrestoboncomba" alt="danielandrestoboncomba" /></a> </p>
 
-- 🔭 I’m currently learning on **Java - Node**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java - SpringBoot**
 
 - 📫 How to reach me **toboncombadanielandres@gmail.com**
 
