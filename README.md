@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Andres Tobon Comba</h1>
-![yo](https://github.com/user-attachments/assets/683b766e-8d72-44a0-a06c-ba7c4b8df806)
 
-<h3 align="center">A passionate Backend developer from Colombia</h3>
+<h3 align="center">A passionate![imglinkedil](https://github.com/user-attachments/assets/f18c7c9a-d611-4ec8-a820-c1fa3c23812d)
+ Backend developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielandrestoboncomba" alt="danielandrestoboncomba" /></a> </p>
 
