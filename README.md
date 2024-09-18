@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Andres Tobon Comba</h1>
 
-![imglinkedil](https://github.com/user-attachments/assets/4decb7aa-bf0e-423e-91dd-a87ed0fa914e)
+
+![banner-linkedin](https://github.com/user-attachments/assets/a8a92818-0c1b-42ed-a707-9b9ef4694f74)
 
 
 
